@@ -163,7 +163,7 @@ header .navbar ul li a:hover{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(../images/home-bg.jpg);
+    background-image: url(New/images/home-bg.jpg);
     background-position: center;
     background-size: cover;
 }
